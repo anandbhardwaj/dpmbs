@@ -1,0 +1,29 @@
+{
+  "name": "dpmbs",
+  "version": "0.0.1",
+  "description": "Design Pattern and module Builder for SFDX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anandbhardwaj/dpmbs.git"
+  },
+  "keywords": [
+    "dign",
+    "pattern",
+    "sfdx",
+    "salesforce",
+    "code",
+    "generator",
+    "best",
+    "practice"
+  ],
+  "author": "Anand Bhardwaj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anandbhardwaj/dpmbs/issues"
+  },
+  "homepage": "https://github.com/anandbhardwaj/dpmbs#readme"
+}
